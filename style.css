@@ -1,0 +1,16 @@
+p{
+    width: 500px;
+    background-color: rgba(235, 241, 182, 0.824);
+    border: 2px solid red;
+    margin: 15px;
+    padding-left: 1px;
+    box-sizing: border-box;
+    
+}
+h1{
+    margin: 20px;
+    
+}
+span{
+  border: 2px solid blue;
+}
